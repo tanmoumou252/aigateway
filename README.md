@@ -17,7 +17,7 @@ Cloudflare Worker 上的 AI 网关
     ]
 ```
 
-2. 打开 init-db.sql 并在 D1 中执行
+2. 打开 init-db.sql 并在 D1 探索数据 query中 run all 执行
 
 3. 转到 Workers 和 Pages > 你的 Worker 名字 > 变量和机密, 添加如下变量 (类型选密钥)
 
